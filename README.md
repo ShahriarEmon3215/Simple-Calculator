@@ -1,16 +1,8 @@
-# calculator
+# Simple Calculator
 
-A new Flutter project.
+This is a simple flutter calculator app using 
+# Provider State Management.
+Technology used : flutter - 2.10.5, Dart - 2.16.2
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/90932124/192145061-e4f4337e-687f-45d3-8d03-6057b3101ec9.jpg" data-canonical-src="https://user-images.githubusercontent.com/90932124/192145061-e4f4337e-687f-45d3-8d03-6057b3101ec9.jpg" width="300" height="600" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
